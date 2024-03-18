@@ -1,6 +1,4 @@
-#include <ctype.h>
 #include <stdio.h>
-#include <string.h>
 
 void py_lstrip(char inp[]) {
   int i = 0;
